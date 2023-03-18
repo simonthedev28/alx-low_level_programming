@@ -1,12 +1,11 @@
-#include <stdio.h> 
-
+#include <stdio.h>
 /**
- * main - prints a given phrase 
- * return:0 if exited properly, non-zero otherwise 
+ * main - A program that prints a line with function
+ *
+ * return:0 (success)
  */
-
 int main(void)
 {
 	puts("\"programming is like building a multilingual puzzle");
-	return(0);
+	return (0);
 }
